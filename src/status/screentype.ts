@@ -1,0 +1,9 @@
+export enum ScreenType {
+    SPLASH = 'SPLASH',
+    SIGN_IN = 'SIGN_IN',
+    SIGN_UP = 'SIGN_UP',
+    MOBILE_VERIFICATION = 'MOBILE_VERIFICATION',
+    DASHBOARD = 'DASHBOARD',
+    NO_INTERNET = 'NO_INTERNET',
+    NO_ROUTE = 'NO_ROUTE',
+}
